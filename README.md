@@ -1,8 +1,11 @@
 # Arch Linux Logo Wallpapers
+
 <p align="center">
   <img src="assets/preview.jpg" alt="Arch Wallpapers Preview" width="600">
 </p>
+
 A minimal collection of wallpapers featuring only the Arch Linux logo — perfect for ricing and clean desktop setups.
+
 ## 🚧 wip
 - [ ] add AUR package
 
