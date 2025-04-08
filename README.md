@@ -12,9 +12,7 @@ A minimal collection of wallpapers featuring only the Arch Linux logo — perfec
 
 | Preview 1 | Preview 2 | Preview 3 |
 |----------|----------|----------|
-| ![](wallpapers/wall1.png) | ![](wallpapers/wall2.jpg) | ![](wallpapers/wall3.png) |
-
-> 💡 Click on each wallpaper to see it in full resolution in the `wallpapers/` folder.
+| ![](wallpapers/arch_zebra.png) | ![](wallpapers/arch_poison.png) | ![](wallpapers/arch_white_vintage.png) |
 
 ## 🧊 Style
 
@@ -26,6 +24,7 @@ These wallpapers are:
 ## 📥 Contributions
 
 Feel free to open a PR if you'd like to add your own minimal Arch logo wallpapers. Keep it clean.
+I used https://moshpro.app/lite/ to make some of the images, you can too or you can get creative in other way.
 
 ---
 
